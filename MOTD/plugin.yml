@@ -1,0 +1,5 @@
+name: MOTD
+description: MOTD pro
+version: 1.0
+author: Hero
+main: com.motd.hero.Main

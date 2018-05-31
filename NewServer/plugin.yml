@@ -1,0 +1,19 @@
+name: hCash
+description: Cash
+version: 1.0
+softdepend: [Vault]
+author: zChromaGamer
+main: com.hero.moedaplugin.Main
+commands:
+  cash: 
+    description: Comando para o cash
+    aliases: [cash]
+  npc:
+    description: command
+    aliases: [aliases,as,alis]
+  shop:
+    description: Command of shop
+    aliases: [aliases,as,alis]
+  vip:
+    description: Command of shopvip
+    aliases: [aliases,as,alis]
